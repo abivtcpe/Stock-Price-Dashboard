@@ -30,7 +30,7 @@ A modern, responsive stock price dashboard built with React, Tailwind CSS, and t
 - Distinctive design - calming emerald accent
 
 
-**Deployed URL**: [Your deployed URL here]
+**Deployed URL**: https://stock-price-dashboard-xi.vercel.app/
 
 **GitHub Repository**: https://github.com/abivtcpe/Stock-Price-Dashboard
 

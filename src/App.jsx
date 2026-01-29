@@ -18,6 +18,8 @@ const App = () => {
   const API_KEY = 'd5t8h6hr01qt62nhtpugd5t8h6hr01qt62nhtpv0';
 
 
+
+
   const fetchStockData = async () => {
     setLoading(true);
     setError(null);

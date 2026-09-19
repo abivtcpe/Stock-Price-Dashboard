@@ -11,7 +11,6 @@ const App = () => {
   const [lastUpdate, setLastUpdate] = useState(new Date());
 
 
-  // Display popular stocks
   const STOCK_SYMBOLS = ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'META', 'TSLA', 'NVDA', 'JPM', 'TM', 'EADSY'];
  
   // Free API key courtesy of finnhub.io
@@ -380,7 +379,7 @@ const App = () => {
           {/* Footer info */}
           <div className="mt-8 text-center text-xs text-slate-500 space-y-1">
             <p>Data provided by Finnhub API • Updated every 60 seconds</p>
-            <p className="text-slate-600">This is a demo application for educational purposes only</p>
+
           </div>
         </main>
       </div>
